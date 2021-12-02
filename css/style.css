@@ -1,0 +1,45 @@
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: red;
+  border-width: 5px;
+  width: 30%;
+}
+h3 {
+  color: green;
+}
+#text1 {
+  font-family: Geneva, Arial, Helvetica, sans-serif;
+}
+.text2 {
+text-decoration: underline;
+}
+.box {
+  width: 100px;
+  height: 100px;
+  margin: auto;
+}
+
+.box1 {
+  background-color: orange;
+}
+
+.box2 {
+  background-color: rgb(61, 150, 61);
+}
+
+.box3 {
+  background-color: rgb(209, 47, 155);
+}
+#flex-container {
+  display: flex;
+  border: 2px solid black;
+  padding: 10px;
+  height: 100px;
+}
+.flex-item {
+  border-radius: 12px;
+  background-color: yellow;
+  height: 75px;
+  width: 75px;
+}
